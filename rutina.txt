@@ -10,3 +10,9 @@ my super poder es controlar el tiempo
 9 termino las tareas
 10 paso tiempo con mi familia
 11 almuerzo
+12 juego con mi perrito 
+13 paro el tiempo 
+14 duermo
+15 devuelvo el tiempo 
+16 veo mas peliculas
+17 y estudio un rato
