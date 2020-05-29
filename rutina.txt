@@ -16,3 +16,9 @@ my super poder es controlar el tiempo
 15 devuelvo el tiempo 
 16 veo mas peliculas
 17 y estudio un rato
+18 en la noche programo
+19 paro el tiempo
+20 duermo 
+21 devuelvo el tiempo 
+22 paso toda la noche programando
+
