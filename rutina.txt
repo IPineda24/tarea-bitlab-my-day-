@@ -1,15 +1,15 @@
-1 me despierto
-2 voy a mi escritorio
-3 enciendo la compu y comienzo a estudiar 
-4 a las 8 am desayuno 
-5 cepillo los dientes 
-6 me baño 
-7 regreso a estudiar 
-8 a las 12 voy a almorzar 
-9 en la tarde descanso un rato
-10 a las 3 pm regreso a estudiar 
-11 a las 4 dejo descansar la compu 
-12 a las 6pm voy de regreso al estudio 
-13 de 8 hasta donde aguante el cuerpo hago las tareas de programación
-14 me cepillo los dientes
-15 me voy a dormir
+1 Me despierto
+2 Voy a mi escritorio
+3 Enciendo la compu y comienzo a estudiar 
+4 A las 8 am desayuno 
+5 Me cepillo los dientes 
+6 Me baño 
+7 Regreso a estudiar 
+8 A las 12 voy a almorzar 
+9 En la tarde descanso un rato
+10 A las 3 pm regreso a estudiar 
+11 A las 4 dejo descansar la compu 
+12 A las 6pm voy de regreso al estudio 
+13 De 8 hasta donde aguante el cuerpo hago las tareas de programación
+14 Me cepillo los dientes
+15 Me voy a dormir
