@@ -1,24 +1,28 @@
 my super poder es controlar el tiempo
-1 me despierto
-2 paro el tiempo
-3 estudio
-4 devuelvo el tiempo
-5 voy a comer 
-6 voy a jugar
-7 veo peliculas
-8 paro el tiempo
-9 termino las tareas
-10 paso tiempo con mi familia
-11 almuerzo
-12 juego con mi perrito 
-13 paro el tiempo 
-14 duermo
-15 devuelvo el tiempo 
-16 veo mas peliculas
-17 y estudio un rato
-18 en la noche programo
-19 paro el tiempo
-20 duermo 
-21 devuelvo el tiempo 
-22 paso toda la noche programando
+1 Me despierto
+2 Paro el tiempo
+3 Estudio
+4 Devuelvo el tiempo
+5 Voy a comer 
+6 Voy a jugar
+7 Veo peliculas
+8 Paro el tiempo
+9 Termino las tareas
+10 Paso tiempo con mi familia
+11 Almuerzo
+12 Juego con mi perrito 
+13 Paro el tiempo 
+14 Duermo
+15 Devuelvo el tiempo 
+16 Veo mas peliculas
+17 Estudio un rato
+18 En la noche programo
+19 Paro el tiempo
+20 Duermo 
+21 Devuelvo el tiempo 
+22 Paso toda la noche programando
+23 Paro el tiempo
+24 saco un curso completo en programacion
+25 devielvo el tiempo 
+
 
