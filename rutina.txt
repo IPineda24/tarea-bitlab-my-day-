@@ -1,16 +1,12 @@
-1 Me despierto
-2 Voy a mi escritorio
-3 Enciendo la compu y comienzo a estudiar 
-4 A las 8 am desayuno 
-5 Me cepillo los dientes 
-6 Me baño 
-7 Regreso a estudiar 
-8 A las 12 voy a almorzar 
-9 En la tarde descanso un rato
-10 A las 3 pm regreso a estudiar 
-11 A las 4 dejo descansar la compu 
-12 A las 6pm voy de regreso al estudio 
-13 De 8 hasta donde aguante el cuerpo hago las tareas de programación
-14 Me cepillo los dientes
-15 Me voy a dormir
-jj
+my super poder es controlar el tiempo
+1 me despierto
+2 paro el tiempo
+3 estudio
+4 devuelvo el tiempo
+5 voy a comer 
+6 voy a jugar
+7 veo peliculas
+8 paro el tiempo
+9 termino las tareas
+10 paso tiempo con mi familia
+11 almuerzo
